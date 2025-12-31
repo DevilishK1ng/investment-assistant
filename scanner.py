@@ -71,8 +71,8 @@ def hourly_summary():
 if __name__ == "__main__":
     scheduler = BlockingScheduler()
 
-    # Escaneo cada 15 minutos
-    scheduler.add_job(run_scan, "interval", minutes=15)
+    # Escaneo cada 5 minutos
+    scheduler.add_job(run_scan, "interval", minutes=5)
 
     # Resumen cada 1 hora
     scheduler.add_job(hourly_summary, "interval", hours=1)

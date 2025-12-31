@@ -22,8 +22,8 @@ def send_telegram(message: str):
 
 def send_telegram_image(image_path, caption=""):
 
-    TOKEN = "8303819342:AAHpqF3FtI6tdnTHs53HCJ9NfL6sVRdJp5s"
-    CHAT_ID = "8287161159"
+    TOKEN = st.secrets["telegram"]["bot_token"]
+    CHAT_ID = st.secrets["telegram"]["chat_id"]
     
     url = f"https://api.telegram.org/bot{TOKEN}/sendPhoto"
 
