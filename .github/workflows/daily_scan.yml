@@ -1,0 +1,38 @@
+name: Daily Market Scan
+
+on:
+  schedule:
+    - cron: "0 21 * * 1-5"   # 4:00 PM NY (21:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run market scanner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python market_scanner.py
+
+      - name: Commit daily scan results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add daily_market_scan.csv
+          git commit -m "Daily market scan" || echo "No changes"
+          git push
