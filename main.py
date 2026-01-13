@@ -5,7 +5,8 @@ from notifications.email import send_email
 from notifications.telegram import send_telegram
 from state import load_state, save_state
 
-TICKERS = ["AAPL", "MSFT", "GOOGL"]
+TICKERS = ["AAPL", "MSFT", "GOOGL", "TTWO", "AMZN"]
+
 
 def run_assistant():
 
