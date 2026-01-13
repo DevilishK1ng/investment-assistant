@@ -4,8 +4,8 @@ def send_telegram(message: str):
     """
     Envía un mensaje de texto a Telegram usando un bot.
     """
-    TOKEN = st.secrets["telegram"]["bot_token"]
-    CHAT_ID = st.secrets["telegram"]["chat_id"]
+    TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+    CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 
