@@ -36,11 +36,19 @@ df_results.to_csv("daily_market_scan.csv", index=False)
 buy = df_results[df_results["signal"] == "BUY"]
 sell = df_results[df_results["signal"] == "SELL"]
 
-message = (
-    "<b>📊 Escaneo Diario S&P 500</b>\n\n"
-    f"🟢 BUY ({len(buy)}): {', '.join(buy['ticker'][:10])}\n"
-    f"🔴 SELL ({len(sell)}): {', '.join(sell['ticker'][:10])}\n\n"
-    "Ver dashboard para lista completa."
-)
+buy_list = buy["ticker"].astype(str).tolist()[:10]
+sell_list = sell["ticker"].astype(str).tolist()[:10]
+
+message = "<b>📊 Escaneo Diario S&P 500</b>\n\n"
+
+message += f"🟢 BUY ({len(buy)}): "
+message += ", ".join(buy_list) if buy_list else "Ninguna"
+message += "\n"
+
+message += f"🔴 SELL ({len(sell)}): "
+message += ", ".join(sell_list) if sell_list else "Ninguna"
+message += "\n\n"
+
+message += "📁 CSV generado con el detalle completo."
 
 send_telegram(message)
