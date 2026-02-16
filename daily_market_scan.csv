@@ -2,7 +2,7 @@ ticker,price,rsi,signal
 MMM,"Ticker
 MMM    171.82
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    66.45
+    67.85
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 AOS,"Ticker
 AOS    80.46
@@ -162,7 +162,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 AMGN,"Ticker
 AMGN    369.19
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    60.59
+    61.65
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 APH,"Ticker
 APH    146.72
@@ -317,7 +317,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 TECH,"Ticker
 TECH    59.93
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    32.61
+    32.86
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 BIIB,"Ticker
 BIIB    196.52
@@ -432,7 +432,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CCL,"Ticker
 CCL    31.77
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    61.76
+    62.46
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CARR,"Ticker
 CARR    65.4
@@ -467,7 +467,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 COR,"Ticker
 COR    360.83
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    52.23
+    52.47
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CNC,"Ticker
 CNC    40.58
@@ -482,7 +482,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CF,"Ticker
 CF    94.66
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    56.35
+    57.26
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CRL,"Ticker
 CRL    161.35
@@ -492,7 +492,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 SCHW,"Ticker
 SCHW    93.72
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    31.49
+    31.89
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CHTR,"Ticker
 CHTR    239.09
@@ -517,7 +517,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CHD,"Ticker
 CHD    101.45
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    78.85
+    79.24
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CIEN,"Ticker
 CIEN    303.92
@@ -537,7 +537,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CTAS,"Ticker
 CTAS    193.44
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    49.15
+    49.99
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 CSCO,"Ticker
 CSCO    76.85
@@ -802,7 +802,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 DUK,"Ticker
 DUK    128.2
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    78.34
+    79.67
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 DD,"Ticker
 DD    50.22
@@ -852,7 +852,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 EMR,"Ticker
 EMR    148.13
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    49.1
+    49.62
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 ETR,"Ticker
 ETR    105.07
@@ -1007,7 +1007,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 F,"Ticker
 F    14.12
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    66.19
+    68.49
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 FTNT,"Ticker
 FTNT    85.56
@@ -1067,7 +1067,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 GEN,"Ticker
 GEN    23.72
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    39.23
+    40.09
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 GNRC,"Ticker
 GNRC    224.45
@@ -1142,7 +1142,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 DOC,"Ticker
 DOC    16.7
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    34.5
+    36.46
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 HSIC,"Ticker
 HSIC    78.19
@@ -1292,7 +1292,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 IVZ,"Ticker
 IVZ    26.52
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    36.32
+    38.04
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 INVH,"Ticker
 INVH    26.99
@@ -1397,7 +1397,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 KR,"Ticker
 KR    71.25
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    73.83
+    74.41
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 LHX,"Ticker
 LHX    345.5
@@ -1442,7 +1442,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 LLY,"Ticker
 LLY    1040.0
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    47.12
+    47.35
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 LIN,"Ticker
 LIN    481.0
@@ -1637,7 +1637,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 MSCI,"Ticker
 MSCI    526.06
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    32.89
+    33.58
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 NDAQ,"Ticker
 NDAQ    79.47
@@ -1772,7 +1772,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 OTIS,"Ticker
 OTIS    89.83
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    47.98
+    49.07
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 PCAR,"Ticker
 PCAR    127.0
@@ -2077,7 +2077,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 SJM,"Ticker
 SJM    110.53
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    71.46
+    74.71
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 SW,"Ticker
 SW    51.56
@@ -2112,7 +2112,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 SBUX,"Ticker
 SBUX    93.79
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    44.49
+    45.69
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 STT,"Ticker
 STT    127.97
@@ -2197,7 +2197,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 TER,"Ticker
 TER    314.66
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    75.36
+    75.38
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 TSLA,"Ticker
 TSLA    417.44
@@ -2267,7 +2267,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 TFC,"Ticker
 TFC    51.9
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    57.55
+    59.7
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 TYL,"Ticker
 TYL    303.94
@@ -2432,7 +2432,7 @@ Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 WEC,"Ticker
 WEC    115.79
 Name: 2026-02-13 00:00:00, dtype: float64","Ticker
-    74.58
+    76.43
 Name: 2026-02-13 00:00:00, dtype: float64",HOLD
 WFC,"Ticker
 WFC    86.98
