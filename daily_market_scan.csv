@@ -2,7 +2,7 @@ ticker,price,rsi,signal
 MMM,"Ticker
 MMM    152.44
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    69.47
+    70.31
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 AOS,"Ticker
 AOS    57.28
@@ -392,7 +392,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 BG,"Ticker
 BG    120.71
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    35.14
+    37.1
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 BXP,"Ticker
 BXP    60.29
@@ -467,7 +467,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 CDW,"Ticker
 CDW    110.82
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    26.95
+    27.84
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 COR,"Ticker
 COR    274.91
@@ -600,9 +600,9 @@ Name: 2026-05-22 00:00:00, dtype: float64","Ticker
     76.52
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 CMCSA,"Ticker
-CMCSA    25.2
+CMCSA    25.21
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    23.77
+    23.88
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 FIX,"Ticker
 FIX    1828.25
@@ -692,7 +692,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 CMI,"Ticker
 CMI    639.55
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    46.29
+    46.75
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 CVS,"Ticker
 CVS    93.26
@@ -887,7 +887,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 EFX,"Ticker
 EFX    164.04
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    40.42
+    41.19
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 EQIX,"Ticker
 EQIX    1079.79
@@ -922,7 +922,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 EVRG,"Ticker
 EVRG    83.94
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    57.54
+    59.83
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 ES,"Ticker
 ES    70.0
@@ -1172,7 +1172,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 HLT,"Ticker
 HLT    321.08
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    61.64
+    61.86
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 HD,"Ticker
 HD    313.07
@@ -1232,7 +1232,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 IEX,"Ticker
 IEX    208.78
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    41.24
+    42.59
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 IDXX,"Ticker
 IDXX    559.37
@@ -1282,7 +1282,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 IP,"Ticker
 IP    31.29
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    50.46
+    52.81
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 INTU,"Ticker
 INTU    319.94
@@ -1332,7 +1332,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 J,"Ticker
 J    114.69
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    33.44
+    33.93
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 JNJ,"Ticker
 JNJ    234.34
@@ -1497,7 +1497,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 MAR,"Ticker
 MAR    369.15
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    73.51
+    74.68
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 MRSH,"Ticker
 MRSH    164.11
@@ -1512,7 +1512,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 MAS,"Ticker
 MAS    67.26
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    46.17
+    47.23
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 MA,"Ticker
 MA    498.54
@@ -1567,7 +1567,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 MCHP,"Ticker
 MCHP    93.43
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    46.52
+    47.43
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 MU,"Ticker
 MU    751.0
@@ -1942,7 +1942,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 RTX,"Ticker
 RTX    177.01
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    58.6
+    59.84
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 O,"Ticker
 O    62.02
@@ -2027,7 +2027,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 SBAC,"Ticker
 SBAC    205.57
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    30.55
+    31.79
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 SLB,"Ticker
 SLB    57.28
@@ -2052,7 +2052,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 SHW,"Ticker
 SHW    309.08
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    48.81
+    49.49
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 SPG,"Ticker
 SPG    204.41
@@ -2177,7 +2177,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 TEL,"Ticker
 TEL    202.78
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    47.64
+    48.4
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 TDY,"Ticker
 TDY    620.45
@@ -2367,7 +2367,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 VTRS,"Ticker
 VTRS    16.65
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    64.24
+    65.08
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 VICI,"Ticker
 VICI    28.5
@@ -2387,7 +2387,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 VMC,"Ticker
 VMC    260.65
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    23.86
+    24.1
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 WRB,"Ticker
 WRB    67.54
@@ -2402,7 +2402,7 @@ Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 WAB,"Ticker
 WAB    256.41
 Name: 2026-05-22 00:00:00, dtype: float64","Ticker
-    44.04
+    44.39
 Name: 2026-05-22 00:00:00, dtype: float64",HOLD
 WMT,"Ticker
 WMT    120.27
