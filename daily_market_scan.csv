@@ -1,2516 +1,2516 @@
 ticker,price,rsi,signal
 MMM,"Ticker
-MMM    181.45
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    75.27
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+MMM    182.08
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    74.9
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AOS,"Ticker
-AOS    63.37
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.15
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AOS    63.18
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.84
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ABT,"Ticker
-ABT    105.46
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    78.63
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ABT    105.71
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.14
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ABBV,"Ticker
-ABBV    243.8
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.7
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ABBV    246.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    40.59
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ACN,"Ticker
-ACN    170.43
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    74.73
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ACN    170.73
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    71.67
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ADBE,"Ticker
-ADBE    257.49
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.42
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ADBE    259.32
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.41
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AMD,"Ticker
-AMD    518.58
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.35
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AMD    482.05
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.13
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AES,"Ticker
-AES    14.68
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.03
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AES    14.7
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.85
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AFL,"Ticker
-AFL    125.15
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.39
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-A,"Ticker
-A    139.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.84
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-APD,"Ticker
-APD    294.71
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ABNB,"Ticker
-ABNB    149.92
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.61
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AKAM,"Ticker
-AKAM    123.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.1
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ALB,"Ticker
-ALB    120.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.35
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ARE,"Ticker
-ARE    48.87
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.54
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ALGN,"Ticker
-ALGN    173.27
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.54
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ALLE,"Ticker
-ALLE    165.36
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    81.8
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LNT,"Ticker
-LNT    70.66
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    35.11
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ALL,"Ticker
-ALL    262.56
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    72.75
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GOOGL,"Ticker
-GOOGL    377.65
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.59
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GOOG,"Ticker
-GOOG    375.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.08
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MO,"Ticker
-MO    68.07
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AMZN,"Ticker
-AMZN    277.42
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.48
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AMCR,"Ticker
-AMCR    47.14
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.33
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AEE,"Ticker
-AEE    109.44
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AEP,"Ticker
-AEP    128.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    37.55
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AXP,"Ticker
-AXP    346.71
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.84
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AIG,"Ticker
-AIG    79.32
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.08
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AMT,"Ticker
-AMT    175.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.38
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AWK,"Ticker
-AWK    134.01
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.32
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AMP,"Ticker
-AMP    553.58
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.69
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AME,"Ticker
-AME    254.05
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    74.56
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AMGN,"Ticker
-AMGN    390.02
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    71.03
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-APH,"Ticker
-APH    171.33
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.93
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ADI,"Ticker
-ADI    380.29
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.88
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-AON,"Ticker
-AON    356.65
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.4
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-APA,"Ticker
-APA    35.8
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
+AFL    125.56
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
     59.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+A,"Ticker
+A    141.11
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.66
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+APD,"Ticker
+APD    295.09
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.58
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ABNB,"Ticker
+ABNB    152.49
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    57.44
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AKAM,"Ticker
+AKAM    122.27
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.26
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ALB,"Ticker
+ALB    118.84
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.61
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ARE,"Ticker
+ARE    50.1
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.87
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ALGN,"Ticker
+ALGN    174.83
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.1
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ALLE,"Ticker
+ALLE    168.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    81.63
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LNT,"Ticker
+LNT    70.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    26.16
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ALL,"Ticker
+ALL    264.59
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    72.56
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GOOGL,"Ticker
+GOOGL    362.43
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.1
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GOOG,"Ticker
+GOOG    360.13
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.58
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MO,"Ticker
+MO    68.44
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.95
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AMZN,"Ticker
+AMZN    272.65
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.67
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AMCR,"Ticker
+AMCR    47.75
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.8
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AEE,"Ticker
+AEE    108.95
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.54
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AEP,"Ticker
+AEP    126.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    31.42
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AXP,"Ticker
+AXP    348.99
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.14
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AIG,"Ticker
+AIG    80.12
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.6
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AMT,"Ticker
+AMT    168.07
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.99
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AWK,"Ticker
+AWK    134.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.59
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AMP,"Ticker
+AMP    561.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    70.33
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AME,"Ticker
+AME    254.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    72.55
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AMGN,"Ticker
+AMGN    407.83
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    72.68
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+APH,"Ticker
+APH    172.24
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.27
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ADI,"Ticker
+ADI    377.69
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.53
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+AON,"Ticker
+AON    359.97
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.58
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+APA,"Ticker
+APA    34.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.87
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 APO,"Ticker
-APO    133.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+APO    129.74
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.57
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AAPL,"Ticker
-AAPL    309.38
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    38.91
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AAPL    311.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.64
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AMAT,"Ticker
-AMAT    546.62
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.29
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AMAT    534.24
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.1
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 APP,"Ticker
-APP    419.7
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    39.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+APP    417.8
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.77
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 APTV,"Ticker
-APTV    47.72
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    24.48
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+APTV    47.01
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    22.69
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ACGL,"Ticker
-ACGL    99.52
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.18
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ACGL    99.09
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.78
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ADM,"Ticker
-ADM    79.87
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.86
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ADM    77.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.43
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ARES,"Ticker
-ARES    142.91
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    73.91
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ARES    139.77
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    67.75
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ANET,"Ticker
-ANET    190.51
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.85
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ANET    197.31
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    71.77
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AJG,"Ticker
-AJG    248.06
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.21
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AJG    251.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.22
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AIZ,"Ticker
-AIZ    281.31
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AIZ    301.57
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    77.65
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 T,"Ticker
-T    23.38
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.9
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+T    23.06
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.75
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ATO,"Ticker
-ATO    172.65
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.23
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ATO    172.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    33.39
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ADSK,"Ticker
-ADSK    237.21
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    67.64
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ADSK    240.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    65.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ADP,"Ticker
-ADP    270.62
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.65
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ADP    270.09
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.1
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AZO,"Ticker
-AZO    3028.03
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.13
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AZO    3066.06
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.3
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AVB,"Ticker
-AVB    189.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.24
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AVB    189.61
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    38.09
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AVY,"Ticker
-AVY    173.3
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.43
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AVY    175.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.53
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AXON,"Ticker
-AXON    607.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.45
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AXON    609.49
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.69
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BKR,"Ticker
-BKR    61.73
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BKR    61.67
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.27
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BALL,"Ticker
-BALL    63.75
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.12
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BALL    63.49
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.69
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BAC,"Ticker
-BAC    62.9
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.82
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BAC    63.25
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.46
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BAX,"Ticker
-BAX    28.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    78.13
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BAX    27.33
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BDX,"Ticker
-BDX    170.12
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    71.62
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BDX    170.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    67.46
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BRK-B,"Ticker
-BRK-B    517.22
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    83.24
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BRK-B    518.85
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    81.93
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BBY,"Ticker
-BBY    86.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.9
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BBY    84.5
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.88
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 TECH,"Ticker
-TECH    72.09
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.32
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+TECH    72.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.96
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BIIB,"Ticker
-BIIB    208.45
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.51
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BIIB    206.63
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.67
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BLK,"Ticker
-BLK    1131.13
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.87
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BLK    1133.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.87
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BX,"Ticker
-BX    137.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.51
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BX    136.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.57
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 XYZ,"Ticker
-XYZ    84.64
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+XYZ    84.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    56.59
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BNY,"Ticker
-BNY    156.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    38.19
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BNY    158.74
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.49
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BA,"Ticker
-BA    237.16
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.54
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BA    240.19
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.58
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BKNG,"Ticker
-BKNG    194.27
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.98
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BKNG    207.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    67.74
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BSX,"Ticker
-BSX    49.09
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    81.94
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BSX    47.74
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.88
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BMY,"Ticker
-BMY    65.89
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    87.07
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BMY    63.63
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    65.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 AVGO,"Ticker
-AVGO    418.16
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.45
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+AVGO    418.28
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    70.55
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BR,"Ticker
-BR    168.41
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    71.18
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BR    163.41
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.57
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BRO,"Ticker
-BRO    71.17
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.55
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BRO    70.95
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.74
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BF-B,"Ticker
-BF-B    28.47
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.4
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BF-B    28.38
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BLDR,"Ticker
-BLDR    75.37
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BLDR    75.86
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.25
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BG,"Ticker
-BG    106.73
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    35.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BG    106.62
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.8
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 BXP,"Ticker
-BXP    70.67
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.87
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+BXP    70.01
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.66
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CHRW,"Ticker
-CHRW    154.75
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    28.17
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CHRW    153.6
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    21.29
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CDNS,"Ticker
-CDNS    340.62
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    37.21
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CDNS    337.07
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    38.26
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CPT,"Ticker
-CPT    111.03
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.58
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CPT    111.91
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.44
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 COF,"Ticker
-COF    221.91
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+COF    221.63
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.06
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CAH,"Ticker
-CAH    233.55
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.1
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CAH    239.23
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.8
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CCL,"Ticker
-CCL    29.59
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CCL    29.67
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.65
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CARR,"Ticker
-CARR    65.69
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CARR    65.43
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.29
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CVNA,"Ticker
-CVNA    68.03
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.87
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CVNA    69.48
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.18
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CASY,"Ticker
-CASY    850.66
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.59
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CASY    852.86
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.15
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CAT,"Ticker
-CAT    876.54
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.82
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CAT    871.08
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.14
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CBOE,"Ticker
-CBOE    288.42
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CBOE    284.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.54
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CBRE,"Ticker
-CBRE    151.05
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CBRE    151.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.86
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CDW,"Ticker
-CDW    154.0
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    81.0
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CDW    140.1
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    56.03
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 COR,"Ticker
-COR    306.28
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.5
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+COR    317.22
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.11
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CNC,"Ticker
-CNC    64.07
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.29
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CNC    66.99
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.1
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CNP,"Ticker
-CNP    41.58
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    40.87
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CNP    40.65
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    29.47
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CF,"Ticker
-CF    118.11
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.41
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CF    116.71
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.27
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CRL,"Ticker
-CRL    234.12
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.28
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CRL    260.72
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 SCHW,"Ticker
-SCHW    106.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.29
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+SCHW    108.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.17
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CHTR,"Ticker
-CHTR    153.07
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.64
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CHTR    153.17
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.49
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CVX,"Ticker
-CVX    190.4
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.2
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CVX    186.41
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.37
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CMG,"Ticker
-CMG    33.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.41
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CMG    34.5
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.95
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CB,"Ticker
-CB    348.3
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.07
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CB    352.54
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    56.77
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CHD,"Ticker
-CHD    103.0
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CHD    103.64
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.81
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CIEN,"Ticker
-CIEN    411.13
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.58
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CIEN    408.83
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CI,"Ticker
-CI    274.05
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    35.2
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CI    270.5
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    40.46
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CINF,"Ticker
-CINF    179.42
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.88
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CINF    177.79
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.76
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CTAS,"Ticker
-CTAS    203.65
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.58
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CTAS    201.4
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.46
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CSCO,"Ticker
-CSCO    121.74
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    71.55
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CSCO    121.5
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    77.85
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 C,"Ticker
-C    136.87
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.63
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+C    137.64
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.52
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CFG,"Ticker
-CFG    73.68
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.06
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CFG    73.6
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.65
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CLX,"Ticker
-CLX    104.67
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CLX    105.84
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.37
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CME,"Ticker
-CME    262.63
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.1
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CME    264.78
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.81
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CMS,"Ticker
-CMS    71.73
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    34.99
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CMS    71.59
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    31.08
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 KO,"Ticker
-KO    86.56
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.27
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+KO    86.83
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.96
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CTSH,"Ticker
-CTSH    56.13
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    80.88
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CTSH    55.78
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    78.13
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 COHR,"Ticker
-COHR    323.73
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.65
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+COHR    328.22
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.52
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 COIN,"Ticker
-COIN    150.73
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    40.75
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+COIN    149.89
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.63
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CL,"Ticker
-CL    92.53
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.4
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CL    93.28
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.21
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CMCSA,"Ticker
-CMCSA    24.93
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.3
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CMCSA    24.75
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.45
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FIX,"Ticker
-FIX    1775.86
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.49
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FIX    1737.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.66
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 COP,"Ticker
-COP    117.94
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.57
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+COP    115.04
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.33
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ED,"Ticker
-ED    108.41
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.62
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ED    108.32
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.21
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 STZ,"Ticker
-STZ    131.42
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.86
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+STZ    130.64
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    39.15
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CEG,"Ticker
-CEG    267.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.37
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CEG    265.12
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.9
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 COO,"Ticker
-COO    74.69
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.02
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+COO    74.84
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.67
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CPRT,"Ticker
-CPRT    29.4
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.66
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CPRT    28.91
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.28
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 GLW,"Ticker
-GLW    159.89
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.33
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+GLW    156.7
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.12
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CPAY,"Ticker
-CPAY    396.52
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.08
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CPAY    394.53
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.06
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CTVA,"Ticker
-CTVA    78.31
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    38.7
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CTVA    78.67
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.25
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CSGP,"Ticker
-CSGP    29.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.83
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CSGP    30.21
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.19
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 COST,"Ticker
-COST    947.85
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.75
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+COST    941.99
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.01
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CRH,"Ticker
-CRH    98.84
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    40.67
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CRH    100.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    39.64
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CRWD,"Ticker
-CRWD    211.22
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.55
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CRWD    209.86
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CCI,"Ticker
-CCI    77.66
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.13
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CCI    73.84
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    38.72
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CSX,"Ticker
-CSX    51.03
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.39
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CSX    51.12
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.22
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CMI,"Ticker
-CMI    635.96
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.04
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CMI    650.25
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.74
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 CVS,"Ticker
-CVS    104.42
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.71
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+CVS    99.12
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DHR,"Ticker
-DHR    194.78
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.12
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DHR    199.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.7
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DRI,"Ticker
-DRI    204.57
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.5
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DRI    208.85
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.7
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DDOG,"Ticker
-DDOG    288.15
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.59
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DDOG    283.17
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.22
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DVA,"Ticker
-DVA    227.99
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.58
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DVA    188.69
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    20.88
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DECK,"Ticker
-DECK    99.87
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    40.03
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DECK    99.31
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.55
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DE,"Ticker
-DE    617.37
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.03
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DE    612.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.33
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DELL,"Ticker
-DELL    467.27
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.2
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DELL    462.7
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.15
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DAL,"Ticker
-DAL    92.77
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.23
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DAL    93.14
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.7
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DVN,"Ticker
-DVN    44.05
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.07
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DVN    42.09
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.76
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DXCM,"Ticker
-DXCM    86.94
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    72.81
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DXCM    82.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    57.75
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FANG,"Ticker
-FANG    191.87
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.92
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FANG    186.17
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.72
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DLR,"Ticker
-DLR    193.89
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.0
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DLR    194.93
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.65
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DG,"Ticker
-DG    127.26
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.75
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DG    126.94
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.62
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DLTR,"Ticker
-DLTR    130.71
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.21
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DLTR    128.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.51
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 D,"Ticker
-D    69.22
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    39.13
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+D    68.27
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    29.35
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DPZ,"Ticker
-DPZ    367.63
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    74.65
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DPZ    366.61
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.97
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DASH,"Ticker
-DASH    202.37
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.79
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DASH    207.27
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.82
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DOV,"Ticker
-DOV    209.93
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.14
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DOV    210.4
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.85
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DOW,"Ticker
-DOW    30.33
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DOW    29.67
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.25
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DHI,"Ticker
-DHI    150.37
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.51
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DHI    151.45
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.07
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DTE,"Ticker
-DTE    141.72
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    36.37
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DTE    139.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    26.02
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DUK,"Ticker
-DUK    124.27
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DUK    123.34
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    40.52
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 DD,"Ticker
-DD    142.93
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    67.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+DD    147.37
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    74.6
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ETN,"Ticker
-ETN    444.77
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.3
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ETN    447.28
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.19
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EBAY,"Ticker
-EBAY    109.61
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.06
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EBAY    111.15
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ECHO,"Ticker
-ECHO    91.6
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.74
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ECHO    87.73
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.24
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ECL,"Ticker
-ECL    283.14
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.61
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ECL    285.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.31
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EIX,"Ticker
-EIX    70.69
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    33.09
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EIX    68.32
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    24.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EW,"Ticker
-EW    89.6
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.06
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EW    88.97
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.89
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EA,"Ticker
 EA    209.7
 Name: 2026-08-04 00:00:00, dtype: float64","Ticker
     80.92
 Name: 2026-08-04 00:00:00, dtype: float64",HOLD
 ELV,"Ticker
-ELV    378.0
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.69
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ELV    391.24
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.48
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EME,"Ticker
-EME    819.88
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.97
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EME    822.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.12
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EMR,"Ticker
-EMR    158.84
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    77.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EMR    162.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    78.2
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ETR,"Ticker
-ETR    108.86
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    34.79
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ETR    106.86
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    28.98
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EOG,"Ticker
-EOG    143.52
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.12
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EOG    134.23
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.99
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EQT,"Ticker
-EQT    52.77
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.27
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EQT    51.23
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    57.49
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EFX,"Ticker
-EFX    177.12
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EFX    177.37
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.07
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EQIX,"Ticker
-EQIX    1051.53
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.35
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EQIX    1056.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EQR,"Ticker
-EQR    67.69
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.08
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EQR    67.74
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.98
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ERIE,"Ticker
-ERIE    244.53
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.99
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ERIE    250.79
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.7
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ESS,"Ticker
-ESS    287.21
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.15
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ESS    288.04
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    37.3
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EL,"Ticker
-EL    86.97
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.52
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EL    86.96
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.32
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EG,"Ticker
-EG    369.21
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.06
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EG    373.28
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.04
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EVRG,"Ticker
-EVRG    83.84
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.13
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EVRG    83.06
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    31.92
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ES,"Ticker
-ES    72.7
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ES    72.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    37.03
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EXC,"Ticker
-EXC    45.84
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EXC    45.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    40.69
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EXE,"Ticker
-EXE    93.07
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.29
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EXE    90.82
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.96
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EXPE,"Ticker
-EXPE    312.06
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    73.83
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EXPE    319.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    74.83
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EXPD,"Ticker
-EXPD    181.48
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.98
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EXPD    181.41
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.19
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 EXR,"Ticker
-EXR    149.86
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.28
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+EXR    150.04
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.27
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 XOM,"Ticker
-XOM    153.96
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.31
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+XOM    151.63
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.75
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FFIV,"Ticker
-FFIV    412.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    46.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FFIV    411.32
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.98
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FDS,"Ticker
-FDS    274.49
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.42
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FDS    278.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.26
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FICO,"Ticker
-FICO    1046.99
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    37.02
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FICO    1091.55
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    37.95
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FAST,"Ticker
-FAST    49.71
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.39
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FAST    49.99
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    67.43
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FRT,"Ticker
-FRT    122.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.5
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FRT    121.83
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    31.32
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FDX,"Ticker
-FDX    313.34
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.93
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FDX    310.72
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    42.9
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FDXF,"Ticker
-FDXF    142.7
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.85
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FDXF    143.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    38.97
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FIS,"Ticker
-FIS    44.26
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FIS    42.84
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.78
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FITB,"Ticker
-FITB    57.77
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.97
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FITB    57.6
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    37.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FSLR,"Ticker
-FSLR    243.63
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FSLR    236.8
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.12
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FE,"Ticker
-FE    48.28
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    46.59
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+FE    47.79
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    37.55
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 FISV,"Ticker
-FISV    55.78
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.82
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-FLEX,"Ticker
-FLEX    126.71
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.51
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-F,"Ticker
-F    14.24
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.95
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-FTNT,"Ticker
-FTNT    168.29
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.22
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-FTV,"Ticker
-FTV    60.51
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.97
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-FOXA,"Ticker
-FOXA    59.08
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.81
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-FOX,"Ticker
-FOX    52.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.64
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-BEN,"Ticker
-BEN    35.77
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.27
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-FCX,"Ticker
-FCX    67.3
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.53
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GRMN,"Ticker
-GRMN    307.36
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    81.61
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IT,"Ticker
-IT    185.79
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    74.87
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GE,"Ticker
-GE    377.28
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.58
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GEHC,"Ticker
-GEHC    70.26
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.55
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GEV,"Ticker
-GEV    1018.53
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.93
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GEN,"Ticker
-GEN    28.27
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.26
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GNRC,"Ticker
-GNRC    218.63
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.99
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GD,"Ticker
-GD    385.76
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.07
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GIS,"Ticker
-GIS    36.19
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.64
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GM,"Ticker
-GM    88.31
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    72.62
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GPC,"Ticker
-GPC    132.55
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.83
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GILD,"Ticker
-GILD    135.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.6
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GPN,"Ticker
-GPN    88.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.3
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GL,"Ticker
-GL    183.9
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.76
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GDDY,"Ticker
-GDDY    89.09
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.2
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GS,"Ticker
-GS    1052.98
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    35.55
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HAL,"Ticker
-HAL    32.36
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    31.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HIG,"Ticker
-HIG    142.05
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.31
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HAS,"Ticker
-HAS    91.51
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    71.83
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HCA,"Ticker
-HCA    400.73
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.81
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-DOC,"Ticker
-DOC    21.62
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.71
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HSIC,"Ticker
-HSIC    89.11
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.83
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HSY,"Ticker
-HSY    179.04
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.31
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HPE,"Ticker
-HPE    52.39
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.18
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HLT,"Ticker
-HLT    312.07
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    31.42
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HD,"Ticker
-HD    348.24
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.33
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HONA,"Ticker
-HONA    216.48
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.39
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HON,"Ticker
-HON    248.79
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    77.8
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HRL,"Ticker
-HRL    25.34
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.19
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HST,"Ticker
-HST    24.98
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.86
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HWM,"Ticker
-HWM    288.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.61
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HPQ,"Ticker
-HPQ    28.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    73.28
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HUBB,"Ticker
-HUBB    502.24
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.8
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HUM,"Ticker
-HUM    362.16
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    31.58
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HBAN,"Ticker
-HBAN    17.56
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.35
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HII,"Ticker
-HII    323.06
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.4
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IBM,"Ticker
-IBM    235.15
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.07
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IEX,"Ticker
-IEX    237.89
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.66
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IDXX,"Ticker
-IDXX    588.09
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.29
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ITW,"Ticker
-ITW    295.06
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    67.11
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-INCY,"Ticker
-INCY    120.6
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.89
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IR,"Ticker
-IR    89.46
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.03
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PODD,"Ticker
-PODD    166.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.86
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-INTC,"Ticker
-INTC    100.86
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.3
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IBKR,"Ticker
-IBKR    88.63
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    34.22
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ICE,"Ticker
-ICE    149.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IFF,"Ticker
-IFF    80.89
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.28
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IP,"Ticker
-IP    42.31
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.67
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-INTU,"Ticker
-INTU    323.6
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.75
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ISRG,"Ticker
-ISRG    368.27
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.81
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IVZ,"Ticker
-IVZ    32.0
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.98
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-INVH,"Ticker
-INVH    30.47
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.49
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IQV,"Ticker
-IQV    228.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.72
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-IRM,"Ticker
-IRM    125.51
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.61
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-JBHT,"Ticker
-JBHT    274.48
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.74
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-JBL,"Ticker
-JBL    340.0
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
+FISV    54.11
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
     58.12
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-JKHY,"Ticker
-JKHY    156.63
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.02
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-J,"Ticker
-J    142.68
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.94
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-JNJ,"Ticker
-JNJ    254.93
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.41
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-JCI,"Ticker
-JCI    153.62
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.79
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-JPM,"Ticker
-JPM    357.52
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.22
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KVUE,"Ticker
-KVUE    19.55
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.31
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KDP,"Ticker
-KDP    31.1
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.37
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KEY,"Ticker
-KEY    23.1
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.33
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KEYS,"Ticker
-KEYS    341.24
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.84
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KMB,"Ticker
-KMB    111.57
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.66
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KIM,"Ticker
-KIM    25.01
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.9
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KMI,"Ticker
-KMI    31.38
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.8
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KKR,"Ticker
-KKR    108.21
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.63
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KLAC,"Ticker
-KLAC    195.45
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    36.51
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KHC,"Ticker
-KHC    26.64
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.74
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-KR,"Ticker
-KR    57.79
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.93
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LHX,"Ticker
-LHX    285.3
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.09
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LH,"Ticker
-LH    312.34
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    75.65
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LRCX,"Ticker
-LRCX    317.74
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.33
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LVS,"Ticker
-LVS    46.02
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.73
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LDOS,"Ticker
-LDOS    130.6
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    76.59
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LEN,"Ticker
-LEN    87.02
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.03
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LII,"Ticker
-LII    446.74
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    26.66
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LLY,"Ticker
-LLY    1115.68
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.07
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LIN,"Ticker
-LIN    484.64
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    32.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LYV,"Ticker
-LYV    183.7
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.38
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LMT,"Ticker
-LMT    589.33
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    81.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-L,"Ticker
-L    115.98
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LOW,"Ticker
-LOW    218.08
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LULU,"Ticker
-LULU    123.03
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.13
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LITE,"Ticker
-LITE    849.47
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.3
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LYB,"Ticker
-LYB    61.11
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.56
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MTB,"Ticker
-MTB    253.06
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.59
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MPC,"Ticker
-MPC    312.61
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.18
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MAR,"Ticker
-MAR    345.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    33.72
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MRSH,"Ticker
-MRSH    191.45
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    67.22
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MLM,"Ticker
-MLM    555.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    46.04
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MRVL,"Ticker
-MRVL    218.59
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.3
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MAS,"Ticker
-MAS    77.08
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.24
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MA,"Ticker
-MA    571.1
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MKC,"Ticker
-MKC    52.06
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.43
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MCD,"Ticker
-MCD    268.34
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.79
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MCK,"Ticker
-MCK    830.43
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.98
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MDT,"Ticker
-MDT    86.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.74
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MRK,"Ticker
-MRK    128.0
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-META,"Ticker
-META    587.94
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    26.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MET,"Ticker
-MET    96.13
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.21
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MTD,"Ticker
-MTD    1437.0
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+FLEX,"Ticker
+FLEX    121.88
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.59
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+F,"Ticker
+F    14.13
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.08
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+FTNT,"Ticker
+FTNT    164.13
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.58
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+FTV,"Ticker
+FTV    61.34
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.18
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+FOXA,"Ticker
+FOXA    58.68
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+FOX,"Ticker
+FOX    52.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    56.33
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+BEN,"Ticker
+BEN    34.92
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.88
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+FCX,"Ticker
+FCX    69.39
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    73.47
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GRMN,"Ticker
+GRMN    302.55
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    75.95
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IT,"Ticker
+IT    186.41
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    72.64
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GE,"Ticker
+GE    381.22
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    72.85
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GEHC,"Ticker
+GEHC    70.24
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.66
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GEV,"Ticker
+GEV    1017.96
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.89
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GEN,"Ticker
+GEN    27.95
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    57.65
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GNRC,"Ticker
+GNRC    217.41
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.81
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GD,"Ticker
+GD    384.08
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.88
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GIS,"Ticker
+GIS    35.93
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    33.49
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GM,"Ticker
+GM    89.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    73.48
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GPC,"Ticker
+GPC    131.32
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.56
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GILD,"Ticker
+GILD    131.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.2
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GPN,"Ticker
+GPN    87.48
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.18
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GL,"Ticker
+GL    183.86
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.78
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GDDY,"Ticker
+GDDY    91.77
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.2
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GS,"Ticker
+GS    1060.38
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.03
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HAL,"Ticker
+HAL    31.82
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    29.72
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HIG,"Ticker
+HIG    143.6
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    65.41
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HAS,"Ticker
+HAS    91.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.92
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HCA,"Ticker
+HCA    409.64
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.52
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+DOC,"Ticker
+DOC    21.79
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.22
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HSIC,"Ticker
+HSIC    89.59
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.62
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HSY,"Ticker
+HSY    179.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    57.67
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HPE,"Ticker
+HPE    53.22
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    71.19
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HLT,"Ticker
+HLT    324.56
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.32
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HD,"Ticker
+HD    353.14
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HONA,"Ticker
+HONA    203.64
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.4
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HON,"Ticker
+HON    248.12
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    74.85
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HRL,"Ticker
+HRL    25.23
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.81
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HST,"Ticker
+HST    25.13
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
     69.52
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MGM,"Ticker
-MGM    45.72
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.67
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MCHP,"Ticker
-MCHP    80.67
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.93
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MU,"Ticker
-MU    892.67
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.2
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MSFT,"Ticker
-MSFT    492.81
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    80.6
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MAA,"Ticker
-MAA    133.21
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MRNA,"Ticker
-MRNA    56.99
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    28.54
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TAP,"Ticker
-TAP    42.29
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MDLZ,"Ticker
-MDLZ    62.08
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.49
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MPWR,"Ticker
-MPWR    1335.03
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.45
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MNST,"Ticker
-MNST    94.18
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.99
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MCO,"Ticker
-MCO    483.67
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    38.37
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MS,"Ticker
-MS    217.04
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    40.76
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MOS,"Ticker
-MOS    22.71
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.34
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MSI,"Ticker
-MSI    442.85
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    73.98
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-MSCI,"Ticker
-MSCI    571.47
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    35.06
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NDAQ,"Ticker
-NDAQ    93.62
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.9
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NTAP,"Ticker
-NTAP    190.46
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    81.5
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NFLX,"Ticker
-NFLX    73.57
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.69
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NEM,"Ticker
-NEM    97.73
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.5
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NWSA,"Ticker
-NWSA    28.59
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.89
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NWS,"Ticker
-NWS    32.72
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.65
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NEE,"Ticker
-NEE    87.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    38.58
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NKE,"Ticker
-NKE    41.53
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NI,"Ticker
-NI    44.53
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NDSN,"Ticker
-NDSN    309.67
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.47
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NSC,"Ticker
-NSC    341.27
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.85
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NTRS,"Ticker
-NTRS    182.41
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    36.62
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NOC,"Ticker
-NOC    551.55
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.38
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NCLH,"Ticker
-NCLH    20.07
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.17
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NRG,"Ticker
-NRG    117.04
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    36.84
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NUE,"Ticker
-NUE    274.04
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    76.36
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NVDA,"Ticker
-NVDA    211.94
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.56
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NVR,"Ticker
-NVR    6267.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.48
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NXPI,"Ticker
-NXPI    237.6
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    29.53
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ORLY,"Ticker
-ORLY    91.83
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-OXY,"Ticker
-OXY    55.09
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.07
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ODFL,"Ticker
-ODFL    219.32
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.72
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-OMC,"Ticker
-OMC    81.81
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.46
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ON,"Ticker
-ON    80.78
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    34.53
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-OKE,"Ticker
-OKE    87.65
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.81
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ORCL,"Ticker
-ORCL    145.74
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.68
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-OTIS,"Ticker
-OTIS    73.64
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PCAR,"Ticker
-PCAR    135.96
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.99
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PKG,"Ticker
-PKG    255.48
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    73.74
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PLTR,"Ticker
-PLTR    162.66
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PANW,"Ticker
-PANW    366.34
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.88
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PSKY,"Ticker
-PSKY    8.38
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    33.2
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PH,"Ticker
-PH    992.65
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.71
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PAYX,"Ticker
-PAYX    118.66
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.8
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PYPL,"Ticker
-PYPL    58.54
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    67.93
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PNR,"Ticker
-PNR    68.48
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.76
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PEP,"Ticker
-PEP    139.1
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.08
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PFE,"Ticker
-PFE    25.41
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.29
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PCG,"Ticker
-PCG    17.45
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.98
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PM,"Ticker
-PM    186.91
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.18
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PSX,"Ticker
-PSX    205.89
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.42
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PNW,"Ticker
-PNW    101.45
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    33.76
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PNC,"Ticker
-PNC    254.14
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.26
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PPG,"Ticker
-PPG    117.8
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.76
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PPL,"Ticker
-PPL    35.18
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.65
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PFG,"Ticker
-PFG    115.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.41
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PG,"Ticker
-PG    148.01
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.41
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PGR,"Ticker
-PGR    210.75
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.92
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PLD,"Ticker
-PLD    139.05
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.68
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PRU,"Ticker
-PRU    123.54
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    75.45
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PEG,"Ticker
-PEG    76.27
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    28.43
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PTC,"Ticker
-PTC    141.68
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.98
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PSA,"Ticker
-PSA    326.49
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PHM,"Ticker
-PHM    131.68
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.13
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-PWR,"Ticker
-PWR    693.0
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.17
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-QCOM,"Ticker
-QCOM    162.67
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    38.14
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-DGX,"Ticker
-DGX    233.72
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    83.5
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-Q,"Ticker
-Q    141.67
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.59
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-RL,"Ticker
-RL    377.92
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.33
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-RJF,"Ticker
-RJF    178.57
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.14
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-RTX,"Ticker
-RTX    217.93
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    79.99
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-O,"Ticker
-O    62.9
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.36
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-REG,"Ticker
-REG    79.43
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    46.83
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-REGN,"Ticker
-REGN    760.66
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    79.23
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-RF,"Ticker
-RF    31.95
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.6
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-RSG,"Ticker
-RSG    207.66
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    35.83
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-RMD,"Ticker
-RMD    223.14
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    71.27
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-RVTY,"Ticker
-RVTY    111.39
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.18
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-HOOD,"Ticker
-HOOD    93.51
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    28.64
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ROK,"Ticker
-ROK    445.23
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.52
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ROL,"Ticker
-ROL    37.81
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    22.48
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ROP,"Ticker
-ROP    392.76
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ROST,"Ticker
-ROST    251.06
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    78.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-RCL,"Ticker
-RCL    325.74
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    74.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SPGI,"Ticker
-SPGI    412.53
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    34.94
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-CRM,"Ticker
-CRM    190.99
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.6
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SNDK,"Ticker
-SNDK    1427.62
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.33
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SBAC,"Ticker
-SBAC    187.9
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.86
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SLB,"Ticker
-SLB    50.81
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HWM,"Ticker
+HWM    291.42
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.71
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HPQ,"Ticker
+HPQ    28.52
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    70.28
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HUBB,"Ticker
+HUBB    513.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
     61.59
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-STX,"Ticker
-STX    845.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.51
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SRE,"Ticker
-SRE    86.65
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    28.25
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-NOW,"Ticker
-NOW    118.14
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.58
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SHW,"Ticker
-SHW    361.57
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.61
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SPG,"Ticker
-SPG    225.9
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.99
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SWKS,"Ticker
-SWKS    66.79
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.91
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SJM,"Ticker
-SJM    119.17
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.92
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SW,"Ticker
-SW    48.52
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.57
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SNA,"Ticker
-SNA    418.34
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    59.08
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SOLV,"Ticker
-SOLV    87.94
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.16
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SO,"Ticker
-SO    93.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.69
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-LUV,"Ticker
-LUV    48.7
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.19
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SWK,"Ticker
-SWK    102.4
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    74.1
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SBUX,"Ticker
-SBUX    104.97
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HUM,"Ticker
+HUM    363.82
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    39.13
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HBAN,"Ticker
+HBAN    17.6
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.28
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HII,"Ticker
+HII    317.7
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    71.29
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IBM,"Ticker
+IBM    235.92
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    65.14
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IEX,"Ticker
+IEX    236.98
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.83
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IDXX,"Ticker
+IDXX    584.78
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.94
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ITW,"Ticker
+ITW    297.32
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.99
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+INCY,"Ticker
+INCY    119.8
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.61
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IR,"Ticker
+IR    90.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.63
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PODD,"Ticker
+PODD    133.26
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    28.04
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+INTC,"Ticker
+INTC    101.06
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.58
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IBKR,"Ticker
+IBKR    88.74
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    42.37
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ICE,"Ticker
+ICE    149.84
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.53
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IFF,"Ticker
+IFF    88.07
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    73.76
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IP,"Ticker
+IP    42.25
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+INTU,"Ticker
+INTU    327.94
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.51
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ISRG,"Ticker
+ISRG    375.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.57
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IVZ,"Ticker
+IVZ    32.01
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.02
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+INVH,"Ticker
+INVH    30.5
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.23
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IQV,"Ticker
+IQV    236.05
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.49
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+IRM,"Ticker
+IRM    127.13
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.01
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+JBHT,"Ticker
+JBHT    272.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    24.89
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+JBL,"Ticker
+JBL    338.62
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.43
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+JKHY,"Ticker
+JKHY    154.35
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.68
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+J,"Ticker
+J    144.67
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.33
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+JNJ,"Ticker
+JNJ    257.59
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.12
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+JCI,"Ticker
+JCI    153.65
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    75.13
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+JPM,"Ticker
+JPM    359.24
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.14
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KVUE,"Ticker
+KVUE    19.67
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.73
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KDP,"Ticker
+KDP    30.75
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.45
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KEY,"Ticker
+KEY    23.09
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    36.53
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KEYS,"Ticker
+KEYS    336.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.63
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KMB,"Ticker
+KMB    112.37
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.47
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KIM,"Ticker
+KIM    24.87
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    29.58
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KMI,"Ticker
+KMI    31.12
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    36.46
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KKR,"Ticker
+KKR    105.65
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.92
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KLAC,"Ticker
+KLAC    192.8
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    37.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KHC,"Ticker
+KHC    25.73
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.4
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+KR,"Ticker
+KR    56.68
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.63
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LHX,"Ticker
+LHX    286.12
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.03
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LH,"Ticker
+LH    313.96
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    72.77
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LRCX,"Ticker
+LRCX    307.42
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LVS,"Ticker
+LVS    45.85
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.28
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LDOS,"Ticker
+LDOS    126.85
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    70.27
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LEN,"Ticker
+LEN    87.88
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.48
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LII,"Ticker
+LII    446.87
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    23.23
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LLY,"Ticker
+LLY    1169.86
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.12
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LIN,"Ticker
+LIN    491.05
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    32.02
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LYV,"Ticker
+LYV    183.52
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.33
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LMT,"Ticker
+LMT    577.6
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    74.39
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+L,"Ticker
+L    115.74
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.59
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LOW,"Ticker
+LOW    219.94
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.56
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LULU,"Ticker
+LULU    123.51
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.81
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LITE,"Ticker
+LITE    826.26
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.31
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LYB,"Ticker
+LYB    59.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.7
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MTB,"Ticker
+MTB    251.94
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.09
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MPC,"Ticker
+MPC    297.75
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.54
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MAR,"Ticker
+MAR    361.31
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.37
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MRSH,"Ticker
+MRSH    191.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.54
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MLM,"Ticker
+MLM    553.37
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    42.87
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MRVL,"Ticker
+MRVL    211.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.54
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MAS,"Ticker
+MAS    77.32
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.45
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MA,"Ticker
+MA    570.48
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.39
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MKC,"Ticker
+MKC    52.54
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MCD,"Ticker
+MCD    274.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.65
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MCK,"Ticker
+MCK    877.23
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MDT,"Ticker
+MDT    85.99
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.45
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MRK,"Ticker
+MRK    128.33
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.1
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+META,"Ticker
+META    588.77
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    28.94
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MET,"Ticker
+MET    96.26
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MTD,"Ticker
+MTD    1421.52
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.15
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MGM,"Ticker
+MGM    44.51
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.82
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MCHP,"Ticker
+MCHP    77.79
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.1
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MU,"Ticker
+MU    893.19
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.95
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MSFT,"Ticker
+MSFT    487.46
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    77.22
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MAA,"Ticker
+MAA    134.56
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.22
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MRNA,"Ticker
+MRNA    56.26
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.26
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TAP,"Ticker
+TAP    41.87
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.53
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MDLZ,"Ticker
+MDLZ    62.6
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.74
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MPWR,"Ticker
+MPWR    1345.45
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.74
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MNST,"Ticker
+MNST    94.46
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.62
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MCO,"Ticker
+MCO    483.98
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    26.69
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MS,"Ticker
+MS    218.27
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.18
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MOS,"Ticker
+MOS    23.41
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    56.87
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MSI,"Ticker
+MSI    438.14
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.62
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+MSCI,"Ticker
+MSCI    571.87
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    28.67
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NDAQ,"Ticker
+NDAQ    94.56
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.07
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NTAP,"Ticker
+NTAP    186.6
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    78.95
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NFLX,"Ticker
+NFLX    74.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
     49.57
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-STT,"Ticker
-STT    185.23
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.62
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-STLD,"Ticker
-STLD    265.1
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    75.46
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-STE,"Ticker
-STE    232.85
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.32
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SYK,"Ticker
-SYK    335.96
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.68
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SMCI,"Ticker
-SMCI    31.69
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.95
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SYF,"Ticker
-SYF    79.08
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.76
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SNPS,"Ticker
-SNPS    403.86
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.17
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-SYY,"Ticker
-SYY    82.79
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.66
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TMUS,"Ticker
-TMUS    177.21
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    42.15
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TROW,"Ticker
-TROW    115.79
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    45.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TTWO,"Ticker
-TTWO    240.22
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    46.38
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TPR,"Ticker
-TPR    155.97
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    73.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TRGP,"Ticker
-TRGP    262.98
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    37.12
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TGT,"Ticker
-TGT    148.11
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.47
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TEL,"Ticker
-TEL    216.82
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.1
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TDY,"Ticker
-TDY    684.76
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    73.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TER,"Ticker
-TER    403.56
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.79
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TSLA,"Ticker
-TSLA    327.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    26.68
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TXN,"Ticker
-TXN    283.63
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    40.02
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TPL,"Ticker
-TPL    395.52
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.93
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TXT,"Ticker
-TXT    89.12
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.69
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TMO,"Ticker
-TMO    564.75
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.43
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TJX,"Ticker
-TJX    157.55
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.68
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TKO,"Ticker
-TKO    184.51
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.43
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TTD,"Ticker
-TTD    19.34
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.8
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TSCO,"Ticker
-TSCO    33.12
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    65.64
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TT,"Ticker
-TT    472.24
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    46.11
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TDG,"Ticker
-TDG    1275.05
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    58.36
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TRV,"Ticker
-TRV    377.15
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    75.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TRMB,"Ticker
-TRMB    59.81
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    69.95
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TFC,"Ticker
-TFC    52.66
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    49.09
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TYL,"Ticker
-TYL    313.33
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.6
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-TSN,"Ticker
-TSN    58.74
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    55.25
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-USB,"Ticker
-USB    64.23
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.48
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-UBER,"Ticker
-UBER    71.99
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    48.02
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-UDR,"Ticker
-UDR    38.55
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.26
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-ULTA,"Ticker
-ULTA    543.86
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    84.17
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-UNP,"Ticker
-UNP    296.35
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.25
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-UAL,"Ticker
-UAL    132.62
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.34
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-UPS,"Ticker
-UPS    109.11
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    44.08
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-URI,"Ticker
-URI    1150.13
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-UNH,"Ticker
-UNH    407.55
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.29
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-UHS,"Ticker
-UHS    167.87
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    74.61
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VLO,"Ticker
-VLO    308.73
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.34
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VEEV,"Ticker
-VEEV    211.86
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    62.9
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VTR,"Ticker
-VTR    90.85
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    46.72
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VLTO,"Ticker
-VLTO    96.45
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.94
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VRSN,"Ticker
-VRSN    299.2
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    67.95
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VRSK,"Ticker
-VRSK    192.8
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    50.69
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VZ,"Ticker
-VZ    46.88
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    68.63
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VRTX,"Ticker
-VRTX    478.7
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.15
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VRT,"Ticker
-VRT    269.93
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    39.44
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VTRS,"Ticker
-VTRS    17.7
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    64.41
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VICI,"Ticker
-VICI    26.59
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.91
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-V,"Ticker
-V    369.59
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    63.98
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VST,"Ticker
-VST    143.23
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    38.96
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-VMC,"Ticker
-VMC    285.1
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.32
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WRB,"Ticker
-WRB    71.39
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    56.18
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-GWW,"Ticker
-GWW    1300.45
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    37.12
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WAB,"Ticker
-WAB    299.07
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    72.91
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WMT,"Ticker
-WMT    111.55
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.47
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-DIS,"Ticker
-DIS    98.18
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    52.54
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WBD,"Ticker
-WBD    25.79
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    32.13
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WM,"Ticker
-WM    225.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    40.8
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WAT,"Ticker
-WAT    396.08
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    60.09
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WEC,"Ticker
-WEC    109.25
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    37.31
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WFC,"Ticker
-WFC    88.39
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    53.09
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WELL,"Ticker
-WELL    231.57
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    47.95
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WST,"Ticker
-WST    348.76
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    43.08
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WDC,"Ticker
-WDC    548.56
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    54.87
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
-WY,"Ticker
-WY    25.83
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NEM,"Ticker
+NEM    104.29
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    72.28
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NWSA,"Ticker
+NWSA    29.06
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.43
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NWS,"Ticker
+NWS    33.13
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.31
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NEE,"Ticker
+NEE    85.91
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    31.62
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NKE,"Ticker
+NKE    42.45
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    39.69
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NI,"Ticker
+NI    42.91
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    26.56
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NDSN,"Ticker
+NDSN    310.67
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    67.7
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NSC,"Ticker
+NSC    341.74
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.31
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NTRS,"Ticker
+NTRS    184.38
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.52
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NOC,"Ticker
+NOC    557.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    71.35
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NCLH,"Ticker
+NCLH    20.3
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.35
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NRG,"Ticker
+NRG    120.73
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    42.4
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NUE,"Ticker
+NUE    274.74
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    77.9
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NVDA,"Ticker
+NVDA    219.22
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.94
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NVR,"Ticker
+NVR    6365.78
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    39.9
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NXPI,"Ticker
+NXPI    231.15
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    30.1
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ORLY,"Ticker
+ORLY    93.44
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+OXY,"Ticker
+OXY    53.81
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.56
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ODFL,"Ticker
+ODFL    215.45
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    27.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+OMC,"Ticker
+OMC    81.71
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.43
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ON,"Ticker
+ON    76.91
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.03
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+OKE,"Ticker
+OKE    87.24
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    33.92
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ORCL,"Ticker
+ORCL    144.39
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    66.41
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+OTIS,"Ticker
+OTIS    73.1
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    42.25
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PCAR,"Ticker
+PCAR    133.34
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.26
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PKG,"Ticker
+PKG    256.01
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    70.92
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PLTR,"Ticker
+PLTR    158.43
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
     65.19
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PANW,"Ticker
+PANW    362.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PSKY,"Ticker
+PSKY    8.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PH,"Ticker
+PH    996.9
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.42
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PAYX,"Ticker
+PAYX    118.27
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.89
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PYPL,"Ticker
+PYPL    57.93
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    57.67
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PNR,"Ticker
+PNR    69.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.92
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PEP,"Ticker
+PEP    138.78
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.31
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PFE,"Ticker
+PFE    25.81
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.24
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PCG,"Ticker
+PCG    17.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.79
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PM,"Ticker
+PM    188.93
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.91
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PSX,"Ticker
+PSX    202.55
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.79
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PNW,"Ticker
+PNW    101.5
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    22.07
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PNC,"Ticker
+PNC    255.37
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.62
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PPG,"Ticker
+PPG    119.13
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.72
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PPL,"Ticker
+PPL    34.95
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    30.83
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PFG,"Ticker
+PFG    114.85
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.78
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PG,"Ticker
+PG    146.8
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    40.93
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PGR,"Ticker
+PGR    212.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.41
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PLD,"Ticker
+PLD    140.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    31.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PRU,"Ticker
+PRU    120.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.66
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PEG,"Ticker
+PEG    75.54
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    27.2
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PTC,"Ticker
+PTC    139.43
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.09
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PSA,"Ticker
+PSA    327.34
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.43
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PHM,"Ticker
+PHM    133.01
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.48
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+PWR,"Ticker
+PWR    682.99
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.91
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+QCOM,"Ticker
+QCOM    157.53
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    39.5
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+DGX,"Ticker
+DGX    235.84
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    81.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+Q,"Ticker
+Q    135.64
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.18
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+RL,"Ticker
+RL    380.78
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.86
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+RJF,"Ticker
+RJF    180.55
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    72.45
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+RTX,"Ticker
+RTX    222.31
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    85.3
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+O,"Ticker
+O    62.7
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    22.61
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+REG,"Ticker
+REG    79.07
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    25.63
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+REGN,"Ticker
+REGN    768.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    78.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+RF,"Ticker
+RF    31.88
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.9
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+RSG,"Ticker
+RSG    207.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    18.35
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+RMD,"Ticker
+RMD    224.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.52
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+RVTY,"Ticker
+RVTY    115.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.03
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+HOOD,"Ticker
+HOOD    92.8
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.54
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ROK,"Ticker
+ROK    450.05
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.51
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ROL,"Ticker
+ROL    37.57
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    7.81
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ROP,"Ticker
+ROP    394.53
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.33
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ROST,"Ticker
+ROST    253.22
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    76.39
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+RCL,"Ticker
+RCL    327.42
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    74.4
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SPGI,"Ticker
+SPGI    410.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    25.25
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+CRM,"Ticker
+CRM    192.98
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.87
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SNDK,"Ticker
+SNDK    1350.5
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.01
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SBAC,"Ticker
+SBAC    178.4
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.9
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SLB,"Ticker
+SLB    49.91
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.77
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+STX,"Ticker
+STX    837.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.41
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SRE,"Ticker
+SRE    84.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    22.98
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+NOW,"Ticker
+NOW    117.22
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.35
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SHW,"Ticker
+SHW    369.68
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.32
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SPG,"Ticker
+SPG    224.81
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.21
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SWKS,"Ticker
+SWKS    66.99
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.01
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SJM,"Ticker
+SJM    119.21
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.31
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SW,"Ticker
+SW    48.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.01
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SNA,"Ticker
+SNA    418.85
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.78
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SOLV,"Ticker
+SOLV    87.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.05
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SO,"Ticker
+SO    93.1
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    36.96
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+LUV,"Ticker
+LUV    48.79
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.89
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SWK,"Ticker
+SWK    103.27
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    71.76
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SBUX,"Ticker
+SBUX    106.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.54
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+STT,"Ticker
+STT    187.05
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+STLD,"Ticker
+STLD    265.96
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    76.57
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+STE,"Ticker
+STE    232.71
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.63
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SYK,"Ticker
+SYK    337.03
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.57
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SMCI,"Ticker
+SMCI    30.32
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SYF,"Ticker
+SYF    79.25
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.62
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SNPS,"Ticker
+SNPS    400.82
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.84
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+SYY,"Ticker
+SYY    84.21
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.31
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TMUS,"Ticker
+TMUS    173.46
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.05
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TROW,"Ticker
+TROW    114.98
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.17
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TTWO,"Ticker
+TTWO    234.91
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TPR,"Ticker
+TPR    159.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    73.17
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TRGP,"Ticker
+TRGP    260.11
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    32.75
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TGT,"Ticker
+TGT    147.7
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.94
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TEL,"Ticker
+TEL    218.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.08
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TDY,"Ticker
+TDY    683.73
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    71.89
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TER,"Ticker
+TER    389.39
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    65.45
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TSLA,"Ticker
+TSLA    321.55
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    26.24
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TXN,"Ticker
+TXN    277.72
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    42.12
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TPL,"Ticker
+TPL    381.88
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    36.01
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TXT,"Ticker
+TXT    88.46
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.75
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TMO,"Ticker
+TMO    577.83
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TJX,"Ticker
+TJX    159.92
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.13
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TKO,"Ticker
+TKO    183.07
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TTD,"Ticker
+TTD    18.96
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    48.93
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TSCO,"Ticker
+TSCO    33.41
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    63.51
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TT,"Ticker
+TT    483.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.96
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TDG,"Ticker
+TDG    1254.71
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.28
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TRV,"Ticker
+TRV    382.45
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    74.15
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TRMB,"Ticker
+TRMB    58.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.6
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TFC,"Ticker
+TFC    52.85
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    47.32
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TYL,"Ticker
+TYL    306.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.29
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+TSN,"Ticker
+TSN    58.19
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.47
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+USB,"Ticker
+USB    64.21
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    51.18
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+UBER,"Ticker
+UBER    68.18
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    35.08
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+UDR,"Ticker
+UDR    38.52
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    29.41
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+ULTA,"Ticker
+ULTA    539.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    78.75
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+UNP,"Ticker
+UNP    295.54
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    46.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+UAL,"Ticker
+UAL    132.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    68.07
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+UPS,"Ticker
+UPS    107.7
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    33.94
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+URI,"Ticker
+URI    1162.04
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.83
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+UNH,"Ticker
+UNH    412.75
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    43.52
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+UHS,"Ticker
+UHS    171.66
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    73.47
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VLO,"Ticker
+VLO    302.39
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    52.6
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VEEV,"Ticker
+VEEV    213.51
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.78
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VTR,"Ticker
+VTR    92.53
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VLTO,"Ticker
+VLTO    97.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    57.26
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VRSN,"Ticker
+VRSN    293.41
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    61.23
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VRSK,"Ticker
+VRSK    188.75
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    38.77
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VZ,"Ticker
+VZ    46.47
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.66
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VRTX,"Ticker
+VRTX    484.83
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    49.12
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VRT,"Ticker
+VRT    277.94
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VTRS,"Ticker
+VTRS    17.65
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    55.44
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VICI,"Ticker
+VICI    26.4
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    37.2
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+V,"Ticker
+V    368.54
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.98
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VST,"Ticker
+VST    140.58
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.67
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+VMC,"Ticker
+VMC    286.77
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.36
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WRB,"Ticker
+WRB    72.08
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.46
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+GWW,"Ticker
+GWW    1285.07
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    27.53
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WAB,"Ticker
+WAB    296.31
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    69.19
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WMT,"Ticker
+WMT    112.34
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    42.63
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+DIS,"Ticker
+DIS    101.76
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    54.82
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WBD,"Ticker
+WBD    25.97
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.65
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WM,"Ticker
+WM    224.31
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    22.43
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WAT,"Ticker
+WAT    400.0
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    60.34
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WEC,"Ticker
+WEC    108.26
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    27.95
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WFC,"Ticker
+WFC    89.17
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    53.8
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WELL,"Ticker
+WELL    237.25
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    44.62
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WST,"Ticker
+WST    351.02
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    42.13
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WDC,"Ticker
+WDC    519.17
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    57.72
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
+WY,"Ticker
+WY    25.84
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    62.0
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 WSM,"Ticker
-WSM    248.88
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    70.88
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+WSM    248.24
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    67.4
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 WMB,"Ticker
-WMB    71.51
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    39.67
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+WMB    71.81
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    39.45
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 WTW,"Ticker
-WTW    339.63
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    86.4
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+WTW    338.07
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    82.54
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 WDAY,"Ticker
-WDAY    171.28
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    66.5
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+WDAY    170.63
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    64.6
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 WYNN,"Ticker
-WYNN    97.6
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.76
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+WYNN    101.15
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    58.4
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 XEL,"Ticker
-XEL    77.75
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.74
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+XEL    77.2
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    34.38
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 XYL,"Ticker
-XYL    122.17
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    51.05
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+XYL    122.25
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    45.17
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 YUM,"Ticker
-YUM    147.68
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    41.01
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+YUM    152.37
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    50.43
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ZBRA,"Ticker
-ZBRA    368.83
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    89.89
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ZBRA    368.99
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    89.15
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ZBH,"Ticker
-ZBH    95.81
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    61.53
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ZBH    98.16
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    59.45
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
 ZTS,"Ticker
-ZTS    76.04
-Name: 2026-08-04 00:00:00, dtype: float64","Ticker
-    57.77
-Name: 2026-08-04 00:00:00, dtype: float64",HOLD
+ZTS    74.39
+Name: 2026-08-05 00:00:00, dtype: float64","Ticker
+    41.94
+Name: 2026-08-05 00:00:00, dtype: float64",HOLD
