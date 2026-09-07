@@ -75,9 +75,9 @@ Name: 2026-09-04 00:00:00, dtype: float64","Ticker
     70.85
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 ALGN,"Ticker
-ALGN    158.63
+ALGN    158.64
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    31.56
+    31.57
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 ALLE,"Ticker
 ALLE    157.12
@@ -97,12 +97,12 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 GOOGL,"Ticker
 GOOGL    338.46
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    44.3
+    44.5
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 GOOG,"Ticker
 GOOG    335.31
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    43.05
+    43.27
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 MO,"Ticker
 MO    68.88
@@ -117,7 +117,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 AMCR,"Ticker
 AMCR    45.15
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    47.77
+    51.71
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 AEE,"Ticker
 AEE    106.47
@@ -167,7 +167,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 APH,"Ticker
 APH    82.78
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    13.22
+    44.3
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 ADI,"Ticker
 ADI    362.25
@@ -287,7 +287,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 BAC,"Ticker
 BAC    62.68
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    42.31
+    44.1
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 BAX,"Ticker
 BAX    25.83
@@ -360,9 +360,9 @@ Name: 2026-09-04 00:00:00, dtype: float64","Ticker
     59.37
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 AVGO,"Ticker
-AVGO    357.89
+AVGO    357.9
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    29.18
+    29.19
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 BR,"Ticker
 BR    172.88
@@ -397,7 +397,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 CHRW,"Ticker
 CHRW    147.64
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    56.44
+    57.65
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 CDNS,"Ticker
 CDNS    292.7
@@ -757,7 +757,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 D,"Ticker
 D    65.84
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    28.23
+    31.33
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 DPZ,"Ticker
 DPZ    341.08
@@ -902,7 +902,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 EXC,"Ticker
 EXC    43.64
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    30.43
+    33.23
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 EXE,"Ticker
 EXE    97.91
@@ -1012,7 +1012,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 FTV,"Ticker
 FTV    56.94
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    31.97
+    32.19
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 FOXA,"Ticker
 FOXA    65.42
@@ -1082,17 +1082,17 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 GM,"Ticker
 GM    87.76
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    63.95
+    64.48
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 GPC,"Ticker
 GPC    138.08
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    63.25
+    65.04
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 GILD,"Ticker
-GILD    150.99
+GILD    151.0
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    70.69
+    70.7
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 GPN,"Ticker
 GPN    92.54
@@ -1317,7 +1317,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 JKHY,"Ticker
 JKHY    165.64
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    72.55
+    73.82
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 J,"Ticker
 J    146.23
@@ -1362,12 +1362,12 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 KMB,"Ticker
 KMB    104.96
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    41.35
+    44.65
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 KIM,"Ticker
 KIM    23.6
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    32.57
+    37.36
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 KMI,"Ticker
 KMI    31.4
@@ -1387,7 +1387,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 KHC,"Ticker
 KHC    24.85
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    51.01
+    55.45
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 KR,"Ticker
 KR    58.59
@@ -1397,7 +1397,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 LHX,"Ticker
 LHX    256.45
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    19.57
+    20.26
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 LH,"Ticker
 LH    326.89
@@ -1687,7 +1687,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 NTRS,"Ticker
 NTRS    186.63
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    40.59
+    42.07
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 NOC,"Ticker
 NOC    514.98
@@ -1722,7 +1722,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 NXPI,"Ticker
 NXPI    227.84
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    43.91
+    43.92
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 ORLY,"Ticker
 ORLY    87.89
@@ -1802,7 +1802,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 PYPL,"Ticker
 PYPL    54.96
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    35.89
+    36.14
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 PNR,"Ticker
 PNR    60.21
@@ -1812,7 +1812,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 PEP,"Ticker
 PEP    137.63
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    48.36
+    52.51
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 PFE,"Ticker
 PFE    28.45
@@ -2112,7 +2112,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 STE,"Ticker
 STE    224.59
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    40.63
+    41.67
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 SYK,"Ticker
 SYK    303.13
@@ -2157,7 +2157,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 TPR,"Ticker
 TPR    122.14
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    36.13
+    36.82
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 TRGP,"Ticker
 TRGP    290.05
@@ -2182,7 +2182,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 TER,"Ticker
 TER    357.03
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    23.63
+    23.7
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 TSLA,"Ticker
 TSLA    354.08
@@ -2232,7 +2232,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 TT,"Ticker
 TT    447.9
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    30.61
+    31.64
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 TDG,"Ticker
 TDG    1162.05
@@ -2457,7 +2457,7 @@ Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 WY,"Ticker
 WY    23.02
 Name: 2026-09-04 00:00:00, dtype: float64","Ticker
-    33.33
+    37.35
 Name: 2026-09-04 00:00:00, dtype: float64",HOLD
 WSM,"Ticker
 WSM    227.42
